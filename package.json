@@ -1,0 +1,24 @@
+{
+  "name": "zella",
+  "version": "0.0.1",
+  "description": "Node SDK for accessing Zella AI for building AI apps",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZellaAI/zella-node.git"
+  },
+  "keywords": [
+    "zella",
+    "llms",
+    "ai"
+  ],
+  "author": "Team Zella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZellaAI/zella-node/issues"
+  },
+  "homepage": "https://github.com/ZellaAI/zella-node#readme"
+}
